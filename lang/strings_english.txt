@@ -1,0 +1,4 @@
+<?php
+
+# Custom strings for english language
+$s_FDA_description		= "Re-Authenticate (FDA)" ;

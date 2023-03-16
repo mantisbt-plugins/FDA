@@ -8,7 +8,7 @@ class FDAPlugin extends MantisPlugin {
 		$this->requires    = array('MantisCore'       => '2.0.0',);
 		$this->author      = 'Cas Nuy';
 		$this->contact     = 'Cas-at-nuy.info';
-		$this->url         = 'http://www.nuy.info';
+		$this->url         = 'https://github.com/mantisbt-plugins/FDAo';
 	}
 
 	function init() { 
